@@ -1,0 +1,93 @@
+@import '../core/variables.scss';
+@import '../mixins.scss';
+
+.button{
+    height: 94px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    border-radius: 20px;
+    font-family: $i-semibold;
+    color: #fff;
+    font-size: 29px;
+    padding: 0 50px;
+    border: none;
+    outline: none;
+    text-transform: uppercase;
+    cursor: pointer;
+
+    @include sm{
+        padding: 0 20px;
+        font-size: 17px;
+        gap: 10px;
+        border-radius: 14px;
+        height: 56px;
+    }
+
+    &--blue{
+        background: rgba(97, 0, 255, 1);
+        transition: filter 0.3s linear;
+
+        &:hover{
+            transition: filter 0.3s linear;
+            filter: drop-shadow(0 15px 15px rgba(97, 0, 255, 0.4));
+        }
+    }
+
+    &--green{
+        background: rgba(15, 188, 115, 1);
+        transition: filter 0.3s linear;
+
+        &:hover{
+            transition: filter 0.3s linear;
+            filter: drop-shadow(0 15px 15px rgba(15, 188, 115, 0.22));
+        }
+    }
+
+    &--icon-plus > span{
+        width: 40px;
+        height: 40px;
+        border-radius: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: url('@@/assets/icons/plus.svg') no-repeat center / contain;
+
+        @include sm{
+            width: 34px;
+            height: 34px;
+            border-radius: 7px;
+        }
+    }
+
+    &--icon-download > span{
+        width: 40px;
+        height: 40px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: url('@@/assets/icons/download.svg') no-repeat center / contain;
+
+        @include sm{
+            width: 34px;
+            height: 34px;
+            border-radius: 7px;
+        }
+    }
+
+    &--icon-home > span{
+        width: 40px;
+        height: 40px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: url('@@/assets/icons/home-icon.svg') no-repeat center / contain;
+
+        @include sm{
+            width: 34px;
+            height: 34px;
+            border-radius: 7px;
+        }
+    }
+}

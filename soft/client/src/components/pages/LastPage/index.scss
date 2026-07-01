@@ -1,0 +1,89 @@
+.last-page{
+    background: url('@@/assets/images/bg.jpg') repeat-y center / cover;
+    width: 100%;
+    min-height: 100vh;
+    max-width: 490px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 60px 0;
+
+    &__inner{
+        max-width: 320px;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        align-items: center;
+        background: #Fff;
+        padding: 30px 20px;
+    }
+
+    &__title{
+        font-weight: 700;
+        color: rgb(140, 140, 140);
+        font-size: 18px;
+        text-align: center;
+    }
+
+    &__complete-text{
+        font-size: 19px;
+        font-weight: 700;
+        color: rgb(108, 108, 108);
+        line-height: 24px;
+    }
+}
+
+.last-form{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #fff;
+    gap: 20px;
+
+    &__title{
+        width: 100%;
+        font-size: 15px;
+    }
+
+    &__item{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+
+        input, input:focus{
+            width: 100%;
+            height: 100%;
+            outline: none;
+            border: 1px solid rgb(144, 144, 144);
+            border-radius: 6px;
+            height: 40px;
+            padding: 0 10px;
+            font-weight: 500;
+        }
+    }
+
+    &__item-title{
+        font-size: 13px;
+        font-weight: 700;
+        color: rgb(113, 113, 113);
+    }
+
+    &__button{
+        height: 40px;
+        border-radius: 6px;
+        background: linear-gradient(to right, yellow, orange);
+        color: #000;
+        font-size: 15px;
+        font-weight: 700;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        border: none;
+        outline: none;
+    }
+}

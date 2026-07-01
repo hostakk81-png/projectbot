@@ -1,0 +1,123 @@
+.admin-page{
+    padding: 100px 0 0 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    font-family: sans-serif;
+
+    &__toolbar{
+        margin: 0 auto;
+        width: 98%;
+
+        button{
+            padding: 20px 40px;
+            background: green;
+            color: #fff;
+            border: none;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border-radius: 20px;
+        }
+    }
+}
+
+.items{
+    width: 98%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-auto-rows: min-content;
+    border: 1px solid gray;
+    padding: 10px;
+    row-gap: 10px;
+}
+
+.item{
+    display: contents;
+
+    &__title{
+        font-size: 15px;
+        font-weight: 700;
+    }
+
+    &__phone{
+        padding-top: 20px;
+        border-top: 1px solid gray;
+        position: relative;
+
+        span{
+            display: flex;
+            position: absolute;
+            top: 10px;
+            left: -42px;
+            width: 30px;
+            height: 30px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 25px;
+            color: #000;
+        }
+    }
+
+    &__code{
+        padding-top: 20px;
+        border-top: 1px solid gray;
+    }
+
+    &__password{
+        padding-top: 20px;
+        border-top: 1px solid gray;
+    }
+
+    &__controls{
+        padding-top: 20px;
+        border-top: 1px solid gray;
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+    }
+}
+
+.item > * + *{
+    border-left: 1px solid black;
+}
+
+.btn{
+    color: #fff !important;
+    border-radius: 10px;
+    height: 40px;
+    width: 130px;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    padding: 0 !important;
+    cursor: pointer;
+
+    &--green,
+    &--green:hover{
+        background: green !important;
+    }
+
+    &--blue,
+    &--blue:hover{
+        background: blue !important;
+    }
+
+    &--yellow,
+    &--yellow:hover{
+        color: #000 !important;
+        background: yellow !important;
+    }
+
+    &--red,
+    &--red:hover{
+        color: #000 !important;
+        background: red !important;
+    }
+
+    &--black,
+    &--black:hover{
+        background: black !important;
+    }
+}
