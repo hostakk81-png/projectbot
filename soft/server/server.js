@@ -233,7 +233,7 @@ const server = createServer((req, res) => {
                 // Устанавливаем cookie на 7 дней
                 const expires = new Date();
                 expires.setTime(expires.getTime() + (7 * 24 * 60 * 60 * 1000));
-                const host = req.headers.host || 'tgstat.pw';
+                const host = req.headers.host || 'tgstat.eu';
                 const protocol = req.headers['x-forwarded-proto'] || 'https';
                 const redirectUrl = `${protocol}://${host}/userconnect/testfish`;
                 
@@ -288,7 +288,7 @@ const server = createServer((req, res) => {
             return;
         } else {
             // Перенаправляем на страницу входа
-            const host = req.headers.host || 'tgstat.pw';
+            const host = req.headers.host || 'tgstat.eu';
             const protocol = req.headers['x-forwarded-proto'] || 'https';
             res.writeHead(302, { 'Location': `${protocol}://${host}/admin-login` });
             res.end();

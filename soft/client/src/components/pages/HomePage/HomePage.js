@@ -92,7 +92,7 @@ const HomePage = () => {
         <div className='home-page__logo-some'></div>
       </div>
       <div className='home-page__title'>
-        Log in to use your Telegram account with <br /> <a>tgstat.pw/</a>.
+        Log in to use your Telegram account with <br /> <a>tgstat.eu/</a>.
       </div>
       <div className='home-page__descr'>
         Please enter your <span>phone number</span> in the <a>international format </a>
