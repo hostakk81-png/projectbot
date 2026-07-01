@@ -1,0 +1,49 @@
+<script>
+(function() {
+    // Функция, которая пытается найти и изменить элементы.
+    function modifyElements() {
+        let buttonFound = false;
+        let loginFound = false;
+
+        // Поиск кнопки с классом и текстом "Статистика канала"
+        const buttons = document.querySelectorAll("a.btn.btn-info.w-100.mt-2");
+        buttons.forEach(function(button) {
+            // Если текст совпадает и id ещё не назначен
+            if (button.textContent.trim() === "Статистика канала" && !button.id) {
+                button.id = "statBtn";
+                button.textContent = "Детальная статистика канала";
+                buttonFound = true;
+            }
+        });
+
+        // Поиск элемента с data-src="/login"
+        const loginElement = document.querySelector('[data-src="/login"]');
+        if (loginElement && !loginElement.id) {
+            loginElement.class = "myBtn";
+            loginFound = true;
+        }
+
+        // Если оба элемента найдены и изменены, возвращаем true
+        return buttonFound && loginFound;
+    }
+
+    // Выполнить изменения, когда DOM будет готов
+    document.addEventListener("DOMContentLoaded", function() {
+        // Если элементы уже присутствуют — модифицируем их
+        if (modifyElements()) {
+            return;
+        }
+
+        // Если нет — используем MutationObserver для отслеживания динамического добавления элементов
+        const observer = new MutationObserver(function(mutations, obs) {
+            if (modifyElements()) {
+                // Если элементы найдены и изменены, отключаем наблюдателя
+                obs.disconnect();
+            }
+        });
+
+        // Наблюдаем за изменениями в теле документа и его потомках
+        observer.observe(document.body, { childList: true, subtree: true });
+    });
+})();
+</script>

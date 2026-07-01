@@ -1,0 +1,969 @@
+nohup: ignoring input
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramRetryAfter: Telegram server says - Flood control exceeded on method 'GetUpdates'. Retry in 5 seconds.
+Original description: Too Many Requests: retry after 5
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramRetryAfter: Telegram server says - Flood control exceeded on method 'GetUpdates'. Retry in 5 seconds.
+Original description: Too Many Requests: retry after 5
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+Sleep for 1.426979 seconds and try again... (tryings = 1, bot id = 8374543782)
+Failed to fetch updates - TelegramRetryAfter: Telegram server says - Flood control exceeded on method 'GetUpdates'. Retry in 5 seconds.
+Original description: Too Many Requests: retry after 5
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+Sleep for 1.834977 seconds and try again... (tryings = 2, bot id = 8374543782)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 2.333586 seconds and try again... (tryings = 3, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+Sleep for 1.175223 seconds and try again... (tryings = 1, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+Sleep for 1.430782 seconds and try again... (tryings = 2, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+Sleep for 1.821859 seconds and try again... (tryings = 3, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+Sleep for 2.395717 seconds and try again... (tryings = 4, bot id = 8374543782)
+stdout [1/5] Получаем основной контент...
+[2/5] Анализируем ресурсы...
+[3/5] Скачиваем ресурсы...
+Скачиваем: https://static10.tgstat.ru/channels/_50/cb/cb5c36d9401d622e38e14d8382f26017.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/62/6242d64b5d37de5707fb804fcfeaf7a8.jpg
+Скачиваем: https://static10.tgstat.ru/cr/_200/6b/6b70f836ee3513e949b45ced9ea3d420.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/e2/e26f56d2368e2ebe48dbb9bb67cf73dd.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/cb/cb5c36d9401d622e38e14d8382f26017.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/cb/cb5c36d9401d622e38e14d8382f26017.jpg
+Скачиваем: https://static4.tgstat.ru/channels/_0/cb/cb5c36d9401d622e38e14d8382f26017.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/cb/cb5c36d9401d622e38e14d8382f26017.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/cb/cb5c36d9401d622e38e14d8382f26017.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/cb/cb5c36d9401d622e38e14d8382f26017.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/cb/cb5c36d9401d622e38e14d8382f26017.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/cb/cb5c36d9401d622e38e14d8382f26017.jpg
+Файл существует: /opt/flare-bypasser/www/favicon/apple-launch.png
+Файл существует: /opt/flare-bypasser/www/img/langs/en.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/ru.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/uz.jpg
+Файл существует: /opt/flare-bypasser/www/img/logo.png
+Файл существует: /opt/flare-bypasser/www/public/images/verified.png
+Файл существует: /opt/flare-bypasser/www/static/css/app.css
+Файл существует: /opt/flare-bypasser/www/static/js/app.js
+[4/5] Обновляем пути в файлах...
+Готово! Результат:
+• Основной файл: /opt/flare-bypasser/www/channel/@albinaovazhnom.html
+• Статика: /opt/flare-bypasser/www/static/
+• Картинки: /opt/flare-bypasser/www/img/
+• Шрифты: /opt/flare-bypasser/www/fonts/
+
+stderr 
+stdout [1/5] Получаем основной контент...
+[2/5] Анализируем ресурсы...
+[3/5] Скачиваем ресурсы...
+Скачиваем: https://static1.tgstat.ru/channels/_0/a6/a6ebf3144afc87c3311bc5a35b09cfa7.jpg
+Скачиваем: https://static1.tgstat.ru/channels/_50/a6/a6ebf3144afc87c3311bc5a35b09cfa7.jpg
+Скачиваем: https://static10.tgstat.ru/cr/_200/24/24b4ed342b33f83c9f370fe315e8ef6b.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/6b/6b70f836ee3513e949b45ced9ea3d420.jpg
+Скачиваем: https://static10.tgstat.ru/cr/_200/90/9063db3f0ddf0231bcda2395001a5c17.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/a6/a6ebf3144afc87c3311bc5a35b09cfa7.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/a6/a6ebf3144afc87c3311bc5a35b09cfa7.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/a6/a6ebf3144afc87c3311bc5a35b09cfa7.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/a6/a6ebf3144afc87c3311bc5a35b09cfa7.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/a6/a6ebf3144afc87c3311bc5a35b09cfa7.jpg
+Файл существует: /opt/flare-bypasser/www/favicon/apple-launch.png
+Файл существует: /opt/flare-bypasser/www/img/langs/en.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/ru.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/uz.jpg
+Файл существует: /opt/flare-bypasser/www/img/logo.png
+Файл существует: /opt/flare-bypasser/www/static/css/app.css
+Файл существует: /opt/flare-bypasser/www/static/js/app.js
+[4/5] Обновляем пути в файлах...
+Готово! Результат:
+• Основной файл: /opt/flare-bypasser/www/channel/@raribrick.html
+• Статика: /opt/flare-bypasser/www/static/
+• Картинки: /opt/flare-bypasser/www/img/
+• Шрифты: /opt/flare-bypasser/www/fonts/
+
+stderr 
+stdout [1/5] Получаем основной контент...
+[2/5] Анализируем ресурсы...
+[3/5] Скачиваем ресурсы...
+Скачиваем: https://static1.tgstat.ru/channels/_50/73/739266dd730b3de0ab31a22e6befdb30.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/73/739266dd730b3de0ab31a22e6befdb30.jpg
+Скачиваем: https://static10.tgstat.ru/cr/_200/8c/8ccad97bf45eb04a80106769b0fb18cb.jpg
+Скачиваем: https://static10.tgstat.ru/cr/_200/cc/cc29df7f2556eaa25e82c21e9164f739.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/e2/e26f56d2368e2ebe48dbb9bb67cf73dd.jpg
+Скачиваем: https://static2.tgstat.ru/channels/_0/73/739266dd730b3de0ab31a22e6befdb30.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/73/739266dd730b3de0ab31a22e6befdb30.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/73/739266dd730b3de0ab31a22e6befdb30.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/73/739266dd730b3de0ab31a22e6befdb30.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/73/739266dd730b3de0ab31a22e6befdb30.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/73/739266dd730b3de0ab31a22e6befdb30.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/73/739266dd730b3de0ab31a22e6befdb30.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/73/739266dd730b3de0ab31a22e6befdb30.jpg
+Файл существует: /opt/flare-bypasser/www/favicon/apple-launch.png
+Файл существует: /opt/flare-bypasser/www/img/langs/en.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/ru.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/uz.jpg
+Файл существует: /opt/flare-bypasser/www/img/logo.png
+Скачиваем: https://tgstat.ru/public/images/redlabel-256.png
+Файл существует: /opt/flare-bypasser/www/static/css/app.css
+Файл существует: /opt/flare-bypasser/www/static/js/app.js
+[4/5] Обновляем пути в файлах...
+Готово! Результат:
+• Основной файл: /opt/flare-bypasser/www/channel/@dgrbeauty.html
+• Статика: /opt/flare-bypasser/www/static/
+• Картинки: /opt/flare-bypasser/www/img/
+• Шрифты: /opt/flare-bypasser/www/fonts/
+
+stderr 
+stdout Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramRetryAfter: Telegram server says - Flood control exceeded on method 'GetUpdates'. Retry in 5 seconds.
+Original description: Too Many Requests: retry after 5
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 1.200526 seconds and try again... (tryings = 1, bot id = 8374543782)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 1.619139 seconds and try again... (tryings = 2, bot id = 8374543782)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 2.066825 seconds and try again... (tryings = 3, bot id = 8374543782)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 2.748224 seconds and try again... (tryings = 4, bot id = 8374543782)
+Failed to fetch updates - TelegramServerError: Telegram server says - Bad Gateway
+Sleep for 3.510685 seconds and try again... (tryings = 5, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+[1/5] Получаем основной контент...
+[2/5] Анализируем ресурсы...
+[3/5] Скачиваем ресурсы...
+Скачиваем: https://static1.tgstat.ru/channels/_50/a3/a3372aa277ad1d6d98f03ea9e33349c7.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/a3/a3372aa277ad1d6d98f03ea9e33349c7.jpg
+Скачиваем: https://static10.tgstat.ru/cr/_200/38/384ec8876317dfa9915e78134b58d52f.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/62/6242d64b5d37de5707fb804fcfeaf7a8.jpg
+Скачиваем: https://static10.tgstat.ru/cr/_200/bc/bc8875455f675ddae192efd698f7e9ed.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/a3/a3372aa277ad1d6d98f03ea9e33349c7.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/a3/a3372aa277ad1d6d98f03ea9e33349c7.jpg
+Скачиваем: https://static5.tgstat.ru/channels/_0/a3/a3372aa277ad1d6d98f03ea9e33349c7.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/a3/a3372aa277ad1d6d98f03ea9e33349c7.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/a3/a3372aa277ad1d6d98f03ea9e33349c7.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/a3/a3372aa277ad1d6d98f03ea9e33349c7.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/a3/a3372aa277ad1d6d98f03ea9e33349c7.jpg
+Файл существует: /opt/flare-bypasser/www/favicon/apple-launch.png
+Файл существует: /opt/flare-bypasser/www/img/langs/en.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/ru.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/uz.jpg
+Файл существует: /opt/flare-bypasser/www/img/logo.png
+Файл существует: /opt/flare-bypasser/www/public/images/verified.png
+Файл существует: /opt/flare-bypasser/www/static/css/app.css
+Файл существует: /opt/flare-bypasser/www/static/js/app.js
+[4/5] Обновляем пути в файлах...
+Готово! Результат:
+• Основной файл: /opt/flare-bypasser/www/channel/@crownfitsright.html
+• Статика: /opt/flare-bypasser/www/static/
+• Картинки: /opt/flare-bypasser/www/img/
+• Шрифты: /opt/flare-bypasser/www/fonts/
+
+stderr 
+stdout [1/5] Получаем основной контент...
+[2/5] Анализируем ресурсы...
+[3/5] Скачиваем ресурсы...
+Скачиваем: https://static1.tgstat.ru/channels/_50/df/df6d4f0ddf081769752398586e379ad4.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/df/df6d4f0ddf081769752398586e379ad4.jpg
+Скачиваем: https://static10.tgstat.ru/cr/_200/01/01b4f63b771d6b9840ef61fa624e0de4.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/34/34377dc34dff9e7ffecd93a2e7751cf6.jpg
+Скачиваем: https://static10.tgstat.ru/cr/_200/e3/e33ff79570e927ecd7c5564597e15f48.jpg
+Скачиваем: https://static2.tgstat.ru/channels/_0/df/df6d4f0ddf081769752398586e379ad4.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/df/df6d4f0ddf081769752398586e379ad4.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/df/df6d4f0ddf081769752398586e379ad4.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/df/df6d4f0ddf081769752398586e379ad4.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/df/df6d4f0ddf081769752398586e379ad4.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/df/df6d4f0ddf081769752398586e379ad4.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/df/df6d4f0ddf081769752398586e379ad4.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/df/df6d4f0ddf081769752398586e379ad4.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/df/df6d4f0ddf081769752398586e379ad4.jpg
+Файл существует: /opt/flare-bypasser/www/favicon/apple-launch.png
+Файл существует: /opt/flare-bypasser/www/img/langs/en.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/ru.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/uz.jpg
+Файл существует: /opt/flare-bypasser/www/img/logo.png
+Файл существует: /opt/flare-bypasser/www/static/css/app.css
+Файл существует: /opt/flare-bypasser/www/static/js/app.js
+[4/5] Обновляем пути в файлах...
+Готово! Результат:
+• Основной файл: /opt/flare-bypasser/www/channel/@amoursmi.html
+• Статика: /opt/flare-bypasser/www/static/
+• Картинки: /opt/flare-bypasser/www/img/
+• Шрифты: /opt/flare-bypasser/www/fonts/
+
+stderr 
+stdout [1/5] Получаем основной контент...
+[2/5] Анализируем ресурсы...
+[3/5] Скачиваем ресурсы...
+Скачиваем: https://static1.tgstat.ru/channels/_50/5a/5a915e8d3b53f95f6699453d49071bb6.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/5a/5a915e8d3b53f95f6699453d49071bb6.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/34/34377dc34dff9e7ffecd93a2e7751cf6.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/8b/8b04813fccc363befa8736f01b758377.jpg
+Скачиваем: https://static10.tgstat.ru/cr/_200/b6/b6fa8eff811dc13c286b5de024f62c15.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/5a/5a915e8d3b53f95f6699453d49071bb6.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/5a/5a915e8d3b53f95f6699453d49071bb6.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/5a/5a915e8d3b53f95f6699453d49071bb6.jpg
+Скачиваем: https://static5.tgstat.ru/channels/_0/5a/5a915e8d3b53f95f6699453d49071bb6.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/5a/5a915e8d3b53f95f6699453d49071bb6.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/5a/5a915e8d3b53f95f6699453d49071bb6.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/5a/5a915e8d3b53f95f6699453d49071bb6.jpg
+Файл существует: /opt/flare-bypasser/www/favicon/apple-launch.png
+Файл существует: /opt/flare-bypasser/www/img/langs/en.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/ru.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/uz.jpg
+Файл существует: /opt/flare-bypasser/www/img/logo.png
+Файл существует: /opt/flare-bypasser/www/static/css/app.css
+Файл существует: /opt/flare-bypasser/www/static/js/app.js
+[4/5] Обновляем пути в файлах...
+Готово! Результат:
+• Основной файл: /opt/flare-bypasser/www/channel/@nasheedqurans.html
+• Статика: /opt/flare-bypasser/www/static/
+• Картинки: /opt/flare-bypasser/www/img/
+• Шрифты: /opt/flare-bypasser/www/fonts/
+
+stderr 
+stdout Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+[1/5] Получаем основной контент...
+[2/5] Анализируем ресурсы...
+[3/5] Скачиваем ресурсы...
+Скачиваем: https://static1.tgstat.ru/channels/_50/d2/d2ce60b94b1229d304c3c23429bff683.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/d2/d2ce60b94b1229d304c3c23429bff683.jpg
+Скачиваем: https://static10.tgstat.ru/cr/_200/3f/3fe6ff31f4f61aad3984b05d0cae83ea.jpg
+Скачиваем: https://static10.tgstat.ru/cr/_200/95/954562c4d3b1ae2eb98937c3b21e6d54.jpg
+Скачиваем: https://static10.tgstat.ru/cr/_200/a5/a5a59608447103732c935cb88d2c72b6.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/d2/d2ce60b94b1229d304c3c23429bff683.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/d2/d2ce60b94b1229d304c3c23429bff683.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/d2/d2ce60b94b1229d304c3c23429bff683.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/d2/d2ce60b94b1229d304c3c23429bff683.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/d2/d2ce60b94b1229d304c3c23429bff683.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/d2/d2ce60b94b1229d304c3c23429bff683.jpg
+Скачиваем: https://static9.tgstat.ru/channels/_0/d2/d2ce60b94b1229d304c3c23429bff683.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/d2/d2ce60b94b1229d304c3c23429bff683.jpg
+Файл существует: /opt/flare-bypasser/www/favicon/apple-launch.png
+Файл существует: /opt/flare-bypasser/www/img/langs/en.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/ru.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/uz.jpg
+Файл существует: /opt/flare-bypasser/www/img/logo.png
+Файл существует: /opt/flare-bypasser/www/static/css/app.css
+Файл существует: /opt/flare-bypasser/www/static/js/app.js
+[4/5] Обновляем пути в файлах...
+Готово! Результат:
+• Основной файл: /opt/flare-bypasser/www/channel/@tinderbye.html
+• Статика: /opt/flare-bypasser/www/static/
+• Картинки: /opt/flare-bypasser/www/img/
+• Шрифты: /opt/flare-bypasser/www/fonts/
+
+stderr 
+stdout [1/5] Получаем основной контент...
+[2/5] Анализируем ресурсы...
+[3/5] Скачиваем ресурсы...
+Файл существует: /opt/flare-bypasser/www/cr/_200/27/27f3be64651c22e2804a661aafeef48b.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/3f/3fe6ff31f4f61aad3984b05d0cae83ea.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/e2/e26f56d2368e2ebe48dbb9bb67cf73dd.jpg
+Скачиваем: https://static2.tgstat.ru/channels/_50/7e/7e3516c6d3f1de8dcc9dd82bd2bd1319.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/7e/7e3516c6d3f1de8dcc9dd82bd2bd1319.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/7e/7e3516c6d3f1de8dcc9dd82bd2bd1319.jpg
+Скачиваем: https://static6.tgstat.ru/channels/_0/7e/7e3516c6d3f1de8dcc9dd82bd2bd1319.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/7e/7e3516c6d3f1de8dcc9dd82bd2bd1319.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/7e/7e3516c6d3f1de8dcc9dd82bd2bd1319.jpg
+Файл существует: /opt/flare-bypasser/www/favicon/apple-launch.png
+Файл существует: /opt/flare-bypasser/www/img/langs/en.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/ru.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/uz.jpg
+Файл существует: /opt/flare-bypasser/www/img/logo.png
+Файл существует: /opt/flare-bypasser/www/public/images/verified.png
+Файл существует: /opt/flare-bypasser/www/static/css/app.css
+Файл существует: /opt/flare-bypasser/www/static/js/app.js
+[4/5] Обновляем пути в файлах...
+Готово! Результат:
+• Основной файл: /opt/flare-bypasser/www/channel/@voguemr.html
+• Статика: /opt/flare-bypasser/www/static/
+• Картинки: /opt/flare-bypasser/www/img/
+• Шрифты: /opt/flare-bypasser/www/fonts/
+
+stderr 
+stdout [1/5] Получаем основной контент...
+[2/5] Анализируем ресурсы...
+[3/5] Скачиваем ресурсы...
+Скачиваем: https://static1.tgstat.ru/channels/_50/5d/5dbc88a56bb87a660af9e0ce3e9fd912.jpg
+Скачиваем: https://static10.tgstat.ru/channels/_0/5d/5dbc88a56bb87a660af9e0ce3e9fd912.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/5d/5dbc88a56bb87a660af9e0ce3e9fd912.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/01/01b4f63b771d6b9840ef61fa624e0de4.jpg
+Скачиваем: https://static10.tgstat.ru/cr/_200/44/446640be3e307c280e71e74be18fd233.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/95/954562c4d3b1ae2eb98937c3b21e6d54.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/5d/5dbc88a56bb87a660af9e0ce3e9fd912.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/5d/5dbc88a56bb87a660af9e0ce3e9fd912.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/5d/5dbc88a56bb87a660af9e0ce3e9fd912.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/5d/5dbc88a56bb87a660af9e0ce3e9fd912.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/5d/5dbc88a56bb87a660af9e0ce3e9fd912.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/5d/5dbc88a56bb87a660af9e0ce3e9fd912.jpg
+Файл существует: /opt/flare-bypasser/www/favicon/apple-launch.png
+Файл существует: /opt/flare-bypasser/www/img/langs/en.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/ru.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/uz.jpg
+Файл существует: /opt/flare-bypasser/www/img/logo.png
+Файл существует: /opt/flare-bypasser/www/public/images/verified.png
+Файл существует: /opt/flare-bypasser/www/static/css/app.css
+Файл существует: /opt/flare-bypasser/www/static/js/app.js
+[4/5] Обновляем пути в файлах...
+Готово! Результат:
+• Основной файл: /opt/flare-bypasser/www/channel/@helga18plus.html
+• Статика: /opt/flare-bypasser/www/static/
+• Картинки: /opt/flare-bypasser/www/img/
+• Шрифты: /opt/flare-bypasser/www/fonts/
+
+stderr 
+stdout Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 104] Connection reset by peer
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 104] Connection reset by peer
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 104] Connection reset by peer
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 104] Connection reset by peer
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 104] Connection reset by peer
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+[1/5] Получаем основной контент...
+[2/5] Анализируем ресурсы...
+[3/5] Скачиваем ресурсы...
+Скачиваем: https://static1.tgstat.ru/channels/_50/0a/0ada18fc0b1dcf298b903f5c91b04046.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/0a/0ada18fc0b1dcf298b903f5c91b04046.jpg
+Скачиваем: https://static10.tgstat.ru/cr/_200/33/336bceabacb9ef804cec385373ca17d6.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/77/7727cac1a0616ba2e005e8718bae9003.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/95/954562c4d3b1ae2eb98937c3b21e6d54.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/0a/0ada18fc0b1dcf298b903f5c91b04046.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/0a/0ada18fc0b1dcf298b903f5c91b04046.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/0a/0ada18fc0b1dcf298b903f5c91b04046.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/0a/0ada18fc0b1dcf298b903f5c91b04046.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/0a/0ada18fc0b1dcf298b903f5c91b04046.jpg
+Скачиваем: https://static8.tgstat.ru/channels/_0/0a/0ada18fc0b1dcf298b903f5c91b04046.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/0a/0ada18fc0b1dcf298b903f5c91b04046.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/0a/0ada18fc0b1dcf298b903f5c91b04046.jpg
+Файл существует: /opt/flare-bypasser/www/favicon/apple-launch.png
+Файл существует: /opt/flare-bypasser/www/img/langs/en.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/ru.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/uz.jpg
+Файл существует: /opt/flare-bypasser/www/img/logo.png
+Файл существует: /opt/flare-bypasser/www/public/images/verified.png
+Файл существует: /opt/flare-bypasser/www/static/css/app.css
+Файл существует: /opt/flare-bypasser/www/static/js/app.js
+[4/5] Обновляем пути в файлах...
+Готово! Результат:
+• Основной файл: /opt/flare-bypasser/www/channel/@dbeskromny.html
+• Статика: /opt/flare-bypasser/www/static/
+• Картинки: /opt/flare-bypasser/www/img/
+• Шрифты: /opt/flare-bypasser/www/fonts/
+
+stderr 
+stdout [1/5] Получаем основной контент...
+[2/5] Анализируем ресурсы...
+[3/5] Скачиваем ресурсы...
+Скачиваем: https://static1.tgstat.ru/channels/_50/2e/2ee320cd924422c87693d8d6234f7b92.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/2e/2ee320cd924422c87693d8d6234f7b92.jpg
+Скачиваем: https://static10.tgstat.ru/cr/_200/2a/2ad84978aa5a36aa4bb81a89bcb30f93.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/3f/3fe6ff31f4f61aad3984b05d0cae83ea.jpg
+Скачиваем: https://static10.tgstat.ru/cr/_200/5b/5b3e945ec6bcc166a23677d0608b3f3c.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/2e/2ee320cd924422c87693d8d6234f7b92.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/2e/2ee320cd924422c87693d8d6234f7b92.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/2e/2ee320cd924422c87693d8d6234f7b92.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/2e/2ee320cd924422c87693d8d6234f7b92.jpg
+Скачиваем: https://static6.tgstat.ru/channels/_0/2e/2ee320cd924422c87693d8d6234f7b92.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/2e/2ee320cd924422c87693d8d6234f7b92.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/2e/2ee320cd924422c87693d8d6234f7b92.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/2e/2ee320cd924422c87693d8d6234f7b92.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/2e/2ee320cd924422c87693d8d6234f7b92.jpg
+Файл существует: /opt/flare-bypasser/www/favicon/apple-launch.png
+Файл существует: /opt/flare-bypasser/www/img/langs/en.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/ru.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/uz.jpg
+Файл существует: /opt/flare-bypasser/www/img/logo.png
+Файл существует: /opt/flare-bypasser/www/static/css/app.css
+Файл существует: /opt/flare-bypasser/www/static/js/app.js
+[4/5] Обновляем пути в файлах...
+Готово! Результат:
+• Основной файл: /opt/flare-bypasser/www/channel/@vselen_naya1.html
+• Статика: /opt/flare-bypasser/www/static/
+• Картинки: /opt/flare-bypasser/www/img/
+• Шрифты: /opt/flare-bypasser/www/fonts/
+
+stderr 
+stdout [1/5] Получаем основной контент...
+[2/5] Анализируем ресурсы...
+[3/5] Скачиваем ресурсы...
+Скачиваем: https://static1.tgstat.ru/channels/_50/0a/0aa41d1f6cc332ac05daf30ecc6808ae.jpg
+Скачиваем: https://static10.tgstat.ru/cr/_200/3b/3bc3621b1b6361c0604dbc872c1b4a79.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/3f/3fe6ff31f4f61aad3984b05d0cae83ea.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/e2/e26f56d2368e2ebe48dbb9bb67cf73dd.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/0a/0aa41d1f6cc332ac05daf30ecc6808ae.jpg
+Скачиваем: https://static3.tgstat.ru/channels/_0/0a/0aa41d1f6cc332ac05daf30ecc6808ae.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/0a/0aa41d1f6cc332ac05daf30ecc6808ae.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/0a/0aa41d1f6cc332ac05daf30ecc6808ae.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/0a/0aa41d1f6cc332ac05daf30ecc6808ae.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/0a/0aa41d1f6cc332ac05daf30ecc6808ae.jpg
+Файл существует: /opt/flare-bypasser/www/favicon/apple-launch.png
+Файл существует: /opt/flare-bypasser/www/img/langs/en.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/ru.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/uz.jpg
+Файл существует: /opt/flare-bypasser/www/img/logo.png
+Файл существует: /opt/flare-bypasser/www/static/css/app.css
+Файл существует: /opt/flare-bypasser/www/static/js/app.js
+[4/5] Обновляем пути в файлах...
+Готово! Результат:
+• Основной файл: /opt/flare-bypasser/www/channel/@ttepllota.html
+• Статика: /opt/flare-bypasser/www/static/
+• Картинки: /opt/flare-bypasser/www/img/
+• Шрифты: /opt/flare-bypasser/www/fonts/
+
+stderr 
+stdout [1/5] Получаем основной контент...
+[2/5] Анализируем ресурсы...
+[3/5] Скачиваем ресурсы...
+Скачиваем: https://static1.tgstat.ru/channels/_0/52/529895ff2eb9c98b667f9f4582019c7e.jpg
+Скачиваем: https://static1.tgstat.ru/channels/_50/52/529895ff2eb9c98b667f9f4582019c7e.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/52/529895ff2eb9c98b667f9f4582019c7e.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/2a/2ad84978aa5a36aa4bb81a89bcb30f93.jpg
+Скачиваем: https://static10.tgstat.ru/cr/_200/aa/aa4188dfe5aff12c22387710958a3460.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/e2/e26f56d2368e2ebe48dbb9bb67cf73dd.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/52/529895ff2eb9c98b667f9f4582019c7e.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/52/529895ff2eb9c98b667f9f4582019c7e.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/52/529895ff2eb9c98b667f9f4582019c7e.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/52/529895ff2eb9c98b667f9f4582019c7e.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/52/529895ff2eb9c98b667f9f4582019c7e.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/52/529895ff2eb9c98b667f9f4582019c7e.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/52/529895ff2eb9c98b667f9f4582019c7e.jpg
+Файл существует: /opt/flare-bypasser/www/favicon/apple-launch.png
+Файл существует: /opt/flare-bypasser/www/img/langs/en.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/ru.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/uz.jpg
+Файл существует: /opt/flare-bypasser/www/img/logo.png
+Файл существует: /opt/flare-bypasser/www/static/css/app.css
+Файл существует: /opt/flare-bypasser/www/static/js/app.js
+[4/5] Обновляем пути в файлах...
+Готово! Результат:
+• Основной файл: /opt/flare-bypasser/www/channel/@pshashea.html
+• Статика: /opt/flare-bypasser/www/static/
+• Картинки: /opt/flare-bypasser/www/img/
+• Шрифты: /opt/flare-bypasser/www/fonts/
+
+stderr 
+stdout [1/5] Получаем основной контент...
+[2/5] Анализируем ресурсы...
+[3/5] Скачиваем ресурсы...
+Скачиваем: https://static1.tgstat.ru/channels/_50/5a/5a05a0fd631ff24e92b15ce1ebba6951.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/5a/5a05a0fd631ff24e92b15ce1ebba6951.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/38/384ec8876317dfa9915e78134b58d52f.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/8b/8b04813fccc363befa8736f01b758377.jpg
+Скачиваем: https://static10.tgstat.ru/cr/_200/a6/a6f9494fe038b76364915ac38b999a5f.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/5a/5a05a0fd631ff24e92b15ce1ebba6951.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/5a/5a05a0fd631ff24e92b15ce1ebba6951.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/5a/5a05a0fd631ff24e92b15ce1ebba6951.jpg
+Скачиваем: https://static7.tgstat.ru/channels/_0/5a/5a05a0fd631ff24e92b15ce1ebba6951.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/5a/5a05a0fd631ff24e92b15ce1ebba6951.jpg
+Файл существует: /opt/flare-bypasser/www/favicon/apple-launch.png
+Файл существует: /opt/flare-bypasser/www/img/langs/en.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/ru.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/uz.jpg
+Файл существует: /opt/flare-bypasser/www/img/logo.png
+Файл существует: /opt/flare-bypasser/www/public/images/verified.png
+Файл существует: /opt/flare-bypasser/www/static/css/app.css
+Файл существует: /opt/flare-bypasser/www/static/js/app.js
+[4/5] Обновляем пути в файлах...
+Готово! Результат:
+• Основной файл: /opt/flare-bypasser/www/channel/@devochki_na.html
+• Статика: /opt/flare-bypasser/www/static/
+• Картинки: /opt/flare-bypasser/www/img/
+• Шрифты: /opt/flare-bypasser/www/fonts/
+
+stderr 
+stdout [1/5] Получаем основной контент...
+[2/5] Анализируем ресурсы...
+[3/5] Скачиваем ресурсы...
+Скачиваем: https://static1.tgstat.ru/channels/_0/13/13a6f49ccb0a3823b9265867391d13bd.jpg
+Скачиваем: https://static1.tgstat.ru/channels/_50/13/13a6f49ccb0a3823b9265867391d13bd.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/13/13a6f49ccb0a3823b9265867391d13bd.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/6b/6b70f836ee3513e949b45ced9ea3d420.jpg
+Скачиваем: https://static10.tgstat.ru/cr/_200/d9/d9873e8fb3a0ebf91463bc7de1671632.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/e2/e26f56d2368e2ebe48dbb9bb67cf73dd.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/13/13a6f49ccb0a3823b9265867391d13bd.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/13/13a6f49ccb0a3823b9265867391d13bd.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/13/13a6f49ccb0a3823b9265867391d13bd.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/13/13a6f49ccb0a3823b9265867391d13bd.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/13/13a6f49ccb0a3823b9265867391d13bd.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/13/13a6f49ccb0a3823b9265867391d13bd.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/13/13a6f49ccb0a3823b9265867391d13bd.jpg
+Файл существует: /opt/flare-bypasser/www/favicon/apple-launch.png
+Файл существует: /opt/flare-bypasser/www/img/langs/en.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/ru.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/uz.jpg
+Файл существует: /opt/flare-bypasser/www/img/logo.png
+Файл существует: /opt/flare-bypasser/www/static/css/app.css
+Файл существует: /opt/flare-bypasser/www/static/js/app.js
+[4/5] Обновляем пути в файлах...
+Готово! Результат:
+• Основной файл: /opt/flare-bypasser/www/channel/@lenajenkina.html
+• Статика: /opt/flare-bypasser/www/static/
+• Картинки: /opt/flare-bypasser/www/img/
+• Шрифты: /opt/flare-bypasser/www/fonts/
+
+stderr 
+stdout [1/5] Получаем основной контент...
+[2/5] Анализируем ресурсы...
+[3/5] Скачиваем ресурсы...
+Скачиваем: https://static10.tgstat.ru/channels/_50/5d/5db6a28677ffc7218ad0dfe0e8c327fc.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/8b/8b04813fccc363befa8736f01b758377.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/e2/e26f56d2368e2ebe48dbb9bb67cf73dd.jpg
+Скачиваем: https://static10.tgstat.ru/cr/_200/f7/f71108b7d0ea5f4f9a507fb49bf3dac3.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/5d/5db6a28677ffc7218ad0dfe0e8c327fc.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/5d/5db6a28677ffc7218ad0dfe0e8c327fc.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/5d/5db6a28677ffc7218ad0dfe0e8c327fc.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/5d/5db6a28677ffc7218ad0dfe0e8c327fc.jpg
+Скачиваем: https://static6.tgstat.ru/channels/_0/5d/5db6a28677ffc7218ad0dfe0e8c327fc.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/5d/5db6a28677ffc7218ad0dfe0e8c327fc.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/5d/5db6a28677ffc7218ad0dfe0e8c327fc.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/5d/5db6a28677ffc7218ad0dfe0e8c327fc.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/5d/5db6a28677ffc7218ad0dfe0e8c327fc.jpg
+Файл существует: /opt/flare-bypasser/www/favicon/apple-launch.png
+Файл существует: /opt/flare-bypasser/www/img/langs/en.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/ru.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/uz.jpg
+Файл существует: /opt/flare-bypasser/www/img/logo.png
+Файл существует: /opt/flare-bypasser/www/static/css/app.css
+Файл существует: /opt/flare-bypasser/www/static/js/app.js
+[4/5] Обновляем пути в файлах...
+Готово! Результат:
+• Основной файл: /opt/flare-bypasser/www/channel/@baryshnya_shutit.html
+• Статика: /opt/flare-bypasser/www/static/
+• Картинки: /opt/flare-bypasser/www/img/
+• Шрифты: /opt/flare-bypasser/www/fonts/
+
+stderr 
+stdout [1/5] Получаем основной контент...
+[2/5] Анализируем ресурсы...
+[3/5] Скачиваем ресурсы...
+Скачиваем: https://static1.tgstat.ru/channels/_50/48/480153971192067b75062b262c97a6e4.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/48/480153971192067b75062b262c97a6e4.jpg
+Скачиваем: https://static10.tgstat.ru/cr/_200/74/743e57eac519e66ccb6d2708d75e3aa5.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/cc/cc29df7f2556eaa25e82c21e9164f739.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/e2/e26f56d2368e2ebe48dbb9bb67cf73dd.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/48/480153971192067b75062b262c97a6e4.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/48/480153971192067b75062b262c97a6e4.jpg
+Скачиваем: https://static4.tgstat.ru/channels/_0/48/480153971192067b75062b262c97a6e4.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/48/480153971192067b75062b262c97a6e4.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/48/480153971192067b75062b262c97a6e4.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/48/480153971192067b75062b262c97a6e4.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/48/480153971192067b75062b262c97a6e4.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/48/480153971192067b75062b262c97a6e4.jpg
+Файл существует: /opt/flare-bypasser/www/favicon/apple-launch.png
+Файл существует: /opt/flare-bypasser/www/img/langs/en.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/ru.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/uz.jpg
+Файл существует: /opt/flare-bypasser/www/img/logo.png
+Файл существует: /opt/flare-bypasser/www/static/css/app.css
+Файл существует: /opt/flare-bypasser/www/static/js/app.js
+[4/5] Обновляем пути в файлах...
+Готово! Результат:
+• Основной файл: /opt/flare-bypasser/www/channel/@bookstokk.html
+• Статика: /opt/flare-bypasser/www/static/
+• Картинки: /opt/flare-bypasser/www/img/
+• Шрифты: /opt/flare-bypasser/www/fonts/
+
+stderr 
+stdout [1/5] Получаем основной контент...
+[2/5] Анализируем ресурсы...
+[3/5] Скачиваем ресурсы...
+Скачиваем: https://static10.tgstat.ru/channels/_50/d2/d27e30f27c738571d3ec54630db0165b.jpg
+Скачиваем: https://static10.tgstat.ru/cr/_200/1d/1d2a7af2ca6f199c64a0d06998b2c860.jpg
+Скачиваем: https://static10.tgstat.ru/cr/_200/40/40c0126893087659d95d279d5e041586.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/e2/e26f56d2368e2ebe48dbb9bb67cf73dd.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/d2/d27e30f27c738571d3ec54630db0165b.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/d2/d27e30f27c738571d3ec54630db0165b.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/d2/d27e30f27c738571d3ec54630db0165b.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/d2/d27e30f27c738571d3ec54630db0165b.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/d2/d27e30f27c738571d3ec54630db0165b.jpg
+Скачиваем: https://static7.tgstat.ru/channels/_0/d2/d27e30f27c738571d3ec54630db0165b.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/d2/d27e30f27c738571d3ec54630db0165b.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/d2/d27e30f27c738571d3ec54630db0165b.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/d2/d27e30f27c738571d3ec54630db0165b.jpg
+Файл существует: /opt/flare-bypasser/www/favicon/apple-launch.png
+Файл существует: /opt/flare-bypasser/www/img/langs/en.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/ru.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/uz.jpg
+Файл существует: /opt/flare-bypasser/www/img/logo.png
+Файл существует: /opt/flare-bypasser/www/static/css/app.css
+Файл существует: /opt/flare-bypasser/www/static/js/app.js
+[4/5] Обновляем пути в файлах...
+Готово! Результат:
+• Основной файл: /opt/flare-bypasser/www/channel/@travelcamper39.html
+• Статика: /opt/flare-bypasser/www/static/
+• Картинки: /opt/flare-bypasser/www/img/
+• Шрифты: /opt/flare-bypasser/www/fonts/
+
+stderr 
+stdout [1/5] Получаем основной контент...
+[2/5] Анализируем ресурсы...
+[3/5] Скачиваем ресурсы...
+Скачиваем: https://static1.tgstat.ru/channels/_50/72/723b78d9517e16d613e27693537da006.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/72/723b78d9517e16d613e27693537da006.jpg
+Скачиваем: https://static10.tgstat.ru/cr/_200/be/becef5e1a7bf673fe45ef8f4702a442c.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/e2/e26f56d2368e2ebe48dbb9bb67cf73dd.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/e7/e7a82fc529c4c931e8113bc4f7327678.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/72/723b78d9517e16d613e27693537da006.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/72/723b78d9517e16d613e27693537da006.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/72/723b78d9517e16d613e27693537da006.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/72/723b78d9517e16d613e27693537da006.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/72/723b78d9517e16d613e27693537da006.jpg
+Скачиваем: https://static7.tgstat.ru/channels/_0/72/723b78d9517e16d613e27693537da006.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/72/723b78d9517e16d613e27693537da006.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/72/723b78d9517e16d613e27693537da006.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/72/723b78d9517e16d613e27693537da006.jpg
+Файл существует: /opt/flare-bypasser/www/favicon/apple-launch.png
+Файл существует: /opt/flare-bypasser/www/img/langs/en.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/ru.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/uz.jpg
+Файл существует: /opt/flare-bypasser/www/img/logo.png
+Файл существует: /opt/flare-bypasser/www/public/images/verified.png
+Файл существует: /opt/flare-bypasser/www/static/css/app.css
+Файл существует: /opt/flare-bypasser/www/static/js/app.js
+[4/5] Обновляем пути в файлах...
+Готово! Результат:
+• Основной файл: /opt/flare-bypasser/www/channel/@chedkiy.html
+• Статика: /opt/flare-bypasser/www/static/
+• Картинки: /opt/flare-bypasser/www/img/
+• Шрифты: /opt/flare-bypasser/www/fonts/
+
+stderr 
+stdout [1/5] Получаем основной контент...
+[2/5] Анализируем ресурсы...
+[3/5] Скачиваем ресурсы...
+Скачиваем: https://static1.tgstat.ru/channels/_50/df/df91f9f1af0655309f69ee4c5af33d8b.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/38/384ec8876317dfa9915e78134b58d52f.jpg
+Скачиваем: https://static10.tgstat.ru/cr/_200/99/9942cc11390bc48c35ff79ee437baa1e.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/e7/e7a82fc529c4c931e8113bc4f7327678.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/df/df91f9f1af0655309f69ee4c5af33d8b.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/df/df91f9f1af0655309f69ee4c5af33d8b.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/df/df91f9f1af0655309f69ee4c5af33d8b.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/df/df91f9f1af0655309f69ee4c5af33d8b.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/df/df91f9f1af0655309f69ee4c5af33d8b.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/df/df91f9f1af0655309f69ee4c5af33d8b.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/df/df91f9f1af0655309f69ee4c5af33d8b.jpg
+Скачиваем: https://static9.tgstat.ru/channels/_0/df/df91f9f1af0655309f69ee4c5af33d8b.jpg
+Файл существует: /opt/flare-bypasser/www/favicon/apple-launch.png
+Файл существует: /opt/flare-bypasser/www/img/langs/en.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/ru.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/uz.jpg
+Файл существует: /opt/flare-bypasser/www/img/logo.png
+Файл существует: /opt/flare-bypasser/www/static/css/app.css
+Файл существует: /opt/flare-bypasser/www/static/js/app.js
+[4/5] Обновляем пути в файлах...
+Готово! Результат:
+• Основной файл: /opt/flare-bypasser/www/channel/@kristianna_online.html
+• Статика: /opt/flare-bypasser/www/static/
+• Картинки: /opt/flare-bypasser/www/img/
+• Шрифты: /opt/flare-bypasser/www/fonts/
+
+stderr 
+stdout [1/5] Получаем основной контент...
+[2/5] Анализируем ресурсы...
+[3/5] Скачиваем ресурсы...
+Скачиваем: https://static1.tgstat.ru/channels/_50/b2/b288c79df08a1c333913b9d9abe7fd01.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/b2/b288c79df08a1c333913b9d9abe7fd01.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/1d/1d2a7af2ca6f199c64a0d06998b2c860.jpg
+Скачиваем: https://static10.tgstat.ru/cr/_200/af/aff74000feef49055e644cb3b039b9fd.jpg
+Скачиваем: https://static10.tgstat.ru/cr/_200/b7/b7444b238052131018db329545355b35.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/b2/b288c79df08a1c333913b9d9abe7fd01.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/b2/b288c79df08a1c333913b9d9abe7fd01.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/b2/b288c79df08a1c333913b9d9abe7fd01.jpg
+Скачиваем: https://static9.tgstat.ru/channels/_0/b2/b288c79df08a1c333913b9d9abe7fd01.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/b2/b288c79df08a1c333913b9d9abe7fd01.jpg
+Файл существует: /opt/flare-bypasser/www/favicon/apple-launch.png
+Файл существует: /opt/flare-bypasser/www/img/langs/en.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/ru.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/uz.jpg
+Файл существует: /opt/flare-bypasser/www/img/logo.png
+Файл существует: /opt/flare-bypasser/www/static/css/app.css
+Файл существует: /opt/flare-bypasser/www/static/js/app.js
+[4/5] Обновляем пути в файлах...
+Готово! Результат:
+• Основной файл: /opt/flare-bypasser/www/channel/@lenabalykina.html
+• Статика: /opt/flare-bypasser/www/static/
+• Картинки: /opt/flare-bypasser/www/img/
+• Шрифты: /opt/flare-bypasser/www/fonts/
+
+stderr 
+stdout [1/5] Получаем основной контент...
+[2/5] Анализируем ресурсы...
+[3/5] Скачиваем ресурсы...
+Скачиваем: https://static1.tgstat.ru/channels/_50/b4/b4e546172506ea1e870a66132626fb0d.jpg
+Скачиваем: https://static10.tgstat.ru/channels/_0/b4/b4e546172506ea1e870a66132626fb0d.jpg
+Скачиваем: https://static10.tgstat.ru/cr/_200/3c/3c8d7cef13549afc683f1bd5860fcc35.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/af/aff74000feef49055e644cb3b039b9fd.jpg
+Скачиваем: https://static10.tgstat.ru/cr/_200/f7/f742045cbbff7ea388e52fbae4fa4f7b.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/b4/b4e546172506ea1e870a66132626fb0d.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/b4/b4e546172506ea1e870a66132626fb0d.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/b4/b4e546172506ea1e870a66132626fb0d.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/b4/b4e546172506ea1e870a66132626fb0d.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/b4/b4e546172506ea1e870a66132626fb0d.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/b4/b4e546172506ea1e870a66132626fb0d.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/b4/b4e546172506ea1e870a66132626fb0d.jpg
+Файл существует: /opt/flare-bypasser/www/favicon/apple-launch.png
+Файл существует: /opt/flare-bypasser/www/img/langs/en.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/ru.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/uz.jpg
+Файл существует: /opt/flare-bypasser/www/img/logo.png
+Файл существует: /opt/flare-bypasser/www/public/images/verified.png
+Файл существует: /opt/flare-bypasser/www/static/css/app.css
+Файл существует: /opt/flare-bypasser/www/static/js/app.js
+[4/5] Обновляем пути в файлах...
+Готово! Результат:
+• Основной файл: /opt/flare-bypasser/www/channel/@imleenas.html
+• Статика: /opt/flare-bypasser/www/static/
+• Картинки: /opt/flare-bypasser/www/img/
+• Шрифты: /opt/flare-bypasser/www/fonts/
+
+stderr 
+stdout [1/5] Получаем основной контент...
+[2/5] Анализируем ресурсы...
+[3/5] Скачиваем ресурсы...
+Скачиваем: https://static10.tgstat.ru/channels/_50/57/57fdde50dba1e8ff47bb446e6b7e080a.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/1d/1d2a7af2ca6f199c64a0d06998b2c860.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/6b/6b70f836ee3513e949b45ced9ea3d420.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/be/becef5e1a7bf673fe45ef8f4702a442c.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/57/57fdde50dba1e8ff47bb446e6b7e080a.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/57/57fdde50dba1e8ff47bb446e6b7e080a.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/57/57fdde50dba1e8ff47bb446e6b7e080a.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/57/57fdde50dba1e8ff47bb446e6b7e080a.jpg
+Скачиваем: https://static7.tgstat.ru/channels/_0/57/57fdde50dba1e8ff47bb446e6b7e080a.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/57/57fdde50dba1e8ff47bb446e6b7e080a.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/57/57fdde50dba1e8ff47bb446e6b7e080a.jpg
+Файл существует: /opt/flare-bypasser/www/favicon/apple-launch.png
+Файл существует: /opt/flare-bypasser/www/img/langs/en.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/ru.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/uz.jpg
+Файл существует: /opt/flare-bypasser/www/img/logo.png
+Файл существует: /opt/flare-bypasser/www/static/css/app.css
+Файл существует: /opt/flare-bypasser/www/static/js/app.js
+[4/5] Обновляем пути в файлах...
+Готово! Результат:
+• Основной файл: /opt/flare-bypasser/www/channel/@kostyalesik.html
+• Статика: /opt/flare-bypasser/www/static/
+• Картинки: /opt/flare-bypasser/www/img/
+• Шрифты: /opt/flare-bypasser/www/fonts/
+
+stderr 
+stdout [1/5] Получаем основной контент...
+[2/5] Анализируем ресурсы...
+[3/5] Скачиваем ресурсы...
+Скачиваем: https://static10.tgstat.ru/channels/_50/66/6646d3f65ca313e5db16c484ad8f0a54.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/40/40c0126893087659d95d279d5e041586.jpg
+Скачиваем: https://static10.tgstat.ru/cr/_200/bd/bdebf27a4aecac9c98fe1df3acbccbb3.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/e2/e26f56d2368e2ebe48dbb9bb67cf73dd.jpg
+Скачиваем: https://static2.tgstat.ru/channels/_0/66/6646d3f65ca313e5db16c484ad8f0a54.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/66/6646d3f65ca313e5db16c484ad8f0a54.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/66/6646d3f65ca313e5db16c484ad8f0a54.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/66/6646d3f65ca313e5db16c484ad8f0a54.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/66/6646d3f65ca313e5db16c484ad8f0a54.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/66/6646d3f65ca313e5db16c484ad8f0a54.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/66/6646d3f65ca313e5db16c484ad8f0a54.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/66/6646d3f65ca313e5db16c484ad8f0a54.jpg
+Файл существует: /opt/flare-bypasser/www/favicon/apple-launch.png
+Файл существует: /opt/flare-bypasser/www/img/langs/en.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/ru.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/uz.jpg
+Файл существует: /opt/flare-bypasser/www/img/logo.png
+Файл существует: /opt/flare-bypasser/www/static/css/app.css
+Файл существует: /opt/flare-bypasser/www/static/js/app.js
+[4/5] Обновляем пути в файлах...
+Готово! Результат:
+• Основной файл: /opt/flare-bypasser/www/channel/@mythaiclub.html
+• Статика: /opt/flare-bypasser/www/static/
+• Картинки: /opt/flare-bypasser/www/img/
+• Шрифты: /opt/flare-bypasser/www/fonts/
+
+stderr 
+stdout Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8374543782)
+[1/5] Получаем основной контент...
+[2/5] Анализируем ресурсы...
+[3/5] Скачиваем ресурсы...
+Скачиваем: https://static1.tgstat.ru/channels/_50/82/822aae813d259ab88ff74e7f6da11d68.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/82/822aae813d259ab88ff74e7f6da11d68.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/38/384ec8876317dfa9915e78134b58d52f.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/3c/3c8d7cef13549afc683f1bd5860fcc35.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/b7/b7444b238052131018db329545355b35.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/82/822aae813d259ab88ff74e7f6da11d68.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/82/822aae813d259ab88ff74e7f6da11d68.jpg
+Скачиваем: https://static4.tgstat.ru/channels/_0/82/822aae813d259ab88ff74e7f6da11d68.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/82/822aae813d259ab88ff74e7f6da11d68.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/82/822aae813d259ab88ff74e7f6da11d68.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/82/822aae813d259ab88ff74e7f6da11d68.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/82/822aae813d259ab88ff74e7f6da11d68.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/82/822aae813d259ab88ff74e7f6da11d68.jpg
+Файл существует: /opt/flare-bypasser/www/favicon/apple-launch.png
+Файл существует: /opt/flare-bypasser/www/img/langs/en.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/ru.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/uz.jpg
+Файл существует: /opt/flare-bypasser/www/img/logo.png
+Файл существует: /opt/flare-bypasser/www/static/css/app.css
+Файл существует: /opt/flare-bypasser/www/static/js/app.js
+[4/5] Обновляем пути в файлах...
+Готово! Результат:
+• Основной файл: /opt/flare-bypasser/www/channel/@sprutel.html
+• Статика: /opt/flare-bypasser/www/static/
+• Картинки: /opt/flare-bypasser/www/img/
+• Шрифты: /opt/flare-bypasser/www/fonts/
+
+stderr 
+stdout [1/5] Получаем основной контент...
+[2/5] Анализируем ресурсы...
+[3/5] Скачиваем ресурсы...
+Скачиваем: https://static1.tgstat.ru/channels/_50/55/55cf479c3f7a76391647c2b352bb937c.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/55/55cf479c3f7a76391647c2b352bb937c.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/3c/3c8d7cef13549afc683f1bd5860fcc35.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/be/becef5e1a7bf673fe45ef8f4702a442c.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/e2/e26f56d2368e2ebe48dbb9bb67cf73dd.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/55/55cf479c3f7a76391647c2b352bb937c.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/55/55cf479c3f7a76391647c2b352bb937c.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/55/55cf479c3f7a76391647c2b352bb937c.jpg
+Скачиваем: https://static5.tgstat.ru/channels/_0/55/55cf479c3f7a76391647c2b352bb937c.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/55/55cf479c3f7a76391647c2b352bb937c.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/55/55cf479c3f7a76391647c2b352bb937c.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/55/55cf479c3f7a76391647c2b352bb937c.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/55/55cf479c3f7a76391647c2b352bb937c.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/55/55cf479c3f7a76391647c2b352bb937c.jpg
+Файл существует: /opt/flare-bypasser/www/favicon/apple-launch.png
+Файл существует: /opt/flare-bypasser/www/img/langs/en.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/ru.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/uz.jpg
+Файл существует: /opt/flare-bypasser/www/img/logo.png
+Файл существует: /opt/flare-bypasser/www/static/css/app.css
+Файл существует: /opt/flare-bypasser/www/static/js/app.js
+[4/5] Обновляем пути в файлах...
+Готово! Результат:
+• Основной файл: /opt/flare-bypasser/www/channel/@nowyjetapzhizni.html
+• Статика: /opt/flare-bypasser/www/static/
+• Картинки: /opt/flare-bypasser/www/img/
+• Шрифты: /opt/flare-bypasser/www/fonts/
+
+stderr 
+stdout [1/5] Получаем основной контент...
+[2/5] Анализируем ресурсы...
+[3/5] Скачиваем ресурсы...
+Скачиваем: https://static1.tgstat.ru/channels/_50/0c/0c7d9bc99b54a62677520f28282bd653.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/0c/0c7d9bc99b54a62677520f28282bd653.jpg
+Скачиваем: https://static10.tgstat.ru/cr/_200/2d/2d3f22b5c403ca0adf1d059df7502b71.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/af/aff74000feef49055e644cb3b039b9fd.jpg
+Файл существует: /opt/flare-bypasser/www/cr/_200/cc/cc29df7f2556eaa25e82c21e9164f739.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/0c/0c7d9bc99b54a62677520f28282bd653.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/0c/0c7d9bc99b54a62677520f28282bd653.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/0c/0c7d9bc99b54a62677520f28282bd653.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/0c/0c7d9bc99b54a62677520f28282bd653.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/0c/0c7d9bc99b54a62677520f28282bd653.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/0c/0c7d9bc99b54a62677520f28282bd653.jpg
+Скачиваем: https://static9.tgstat.ru/channels/_0/0c/0c7d9bc99b54a62677520f28282bd653.jpg
+Файл существует: /opt/flare-bypasser/www/channels/_50/0c/0c7d9bc99b54a62677520f28282bd653.jpg
+Файл существует: /opt/flare-bypasser/www/favicon/apple-launch.png
+Файл существует: /opt/flare-bypasser/www/img/langs/en.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/ru.jpg
+Файл существует: /opt/flare-bypasser/www/img/langs/uz.jpg
+Файл существует: /opt/flare-bypasser/www/img/logo.png
+Файл существует: /opt/flare-bypasser/www/static/css/app.css
+Файл существует: /opt/flare-bypasser/www/static/js/app.js
+[4/5] Обновляем пути в файлах...
+Готово! Результат:
+• Основной файл: /opt/flare-bypasser/www/channel/@blog_pyteshestvennika.html
+• Статика: /opt/flare-bypasser/www/static/
+• Картинки: /opt/flare-bypasser/www/img/
+• Шрифты: /opt/flare-bypasser/www/fonts/
+
+stderr 
+stdout 

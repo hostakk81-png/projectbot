@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 1000 1000">
+    <style>
+        svg&gt;svg,svg&gt;g{display:none}:target{display:block!important}
+    </style>
+    <svg id="viewedSvg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 594.149 594.149">
+        <path id="viewedPath" fill="silver" d="M448.8,161.925l-35.7-35.7l-160.65,160.65l35.7,35.7L448.8,161.925z M555.899,126.225l-267.75,270.3l-107.1-107.1 l-35.7,35.7l142.8,142.8l306-306L555.899,126.225z M0,325.125l142.8,142.8l35.7-35.7l-142.8-142.8L0,325.125z"/>
+    </svg>
+    <svg id="loaderSvg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+        <g>
+            <path d="M59.6 0h8v40h-8V0z"/>
+            <path d="M92.19 6.374l6.928 4-20 34.641-6.929-4 20-34.64zM117.226 28.19l4 6.928-34.641 20-4-6.929 34.64-20zM128 59.6v8H88v-8h40zM121.626 92.19l-4 6.928-34.641-20 4-6.929 34.64 20z" fill="#ccc" fill-opacity=".2"/>
+            <path d="M99.81 117.226l-6.928 4-20-34.641 6.929-4 20 34.64z" fill="#b2b2b2" fill-opacity=".3"/>
+            <path d="M68.4 128h-8V88h8v40z" fill="#999" fill-opacity=".4"/>
+            <path d="M35.81 121.626l-6.928-4 20-34.641 6.929 4-20 34.64z" fill="#7f7f7f" fill-opacity=".5"/>
+            <path d="M10.774 99.81l-4-6.928 34.641-20 4 6.929-34.64 20z" fill="#666" fill-opacity=".6"/>
+            <path d="M0 68.4v-8h40v8H0z" fill="#4c4c4c" fill-opacity=".7"/>
+            <path d="M6.374 35.81l4-6.928 34.641 20-4 6.929-34.64-20z" fill="#333" fill-opacity=".8"/>
+            <path d="M28.19 10.774l6.928-4 20 34.641-6.929 4-20-34.64z" fill="#191919" fill-opacity=".9"/>
+            <animateTransform attributeName="transform" type="rotate" values="0 64 64;30 64 64;60 64 64;90 64 64;120 64 64;150 64 64;180 64 64;210 64 64;240 64 64;270 64 64;300 64 64;330 64 64" calcMode="discrete" dur="1080ms" repeatCount="indefinite"/>
+        </g>
+    </svg>
+    <svg id="errorSvg" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" overflow="visible">
+        <circle cx="16" cy="16" r="16" fill="#d72828"/>
+        <path d="M14.5 25h3v-3h-3v3zm0-19v13h3V6h-3z" fill="#e6e6e6"/>
+    </svg>
+    <svg id="playSvg" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="24" cy="24" r="16" fill="hsla(0,0%,100%,.22)"/>
+        <path fill="#fff" fill-rule="evenodd" transform="translate(12, 12)" d="M8 6.82v10.36c0 .79.87 1.27 1.54.84l8.14-5.18a1 1 0 000-1.69L9.54 5.98A.998.998 0 008 6.82z"/>
+    </svg>
+</svg>

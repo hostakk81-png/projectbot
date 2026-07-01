@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  flare-bypasser:
+    build:
+      args:
+        UID: 1001
+      context: .
+      dockerfile: Dockerfile
+    restart:
+        always
+    environment:
+      UNUSED: "false"
+      SAVE_CHALLENGE_SCREENSHOTS: "true"
+    container_name: flare-bypasser
+    image: flare-bypasser:latest
+    network_mode: "host"
+    volumes:
+      - ./var:/opt/flare_bypasser/var/
+      - ./extensions/:/opt/flare_bypasser/extensions/
