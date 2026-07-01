@@ -6,7 +6,8 @@
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --env mode=development",
-    "build": "webpack --env mode=production"
+    "build": "webpack --env mode=production",
+    "start": "npx serve -s build -l $PORT"
   },
   "keywords": [],
   "author": "",
@@ -41,7 +42,8 @@
     "react-router-dom": "^6.13.0",
     "react-select": "^5.8.0",
     "react-toastify": "^10.0.5",
-    "socket.io-client": "^4.7.5"
+    "socket.io-client": "^4.7.5",
+    "serve": "^14.2.4"
   },
   "browserslist": [
     "last 4 version",
