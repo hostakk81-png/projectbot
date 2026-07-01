@@ -10,13 +10,22 @@ import re
 import signal
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 import math
+from dotenv import load_dotenv
 
-# Вайтлист пользователей
+# Load environment variables from .env file
+load_dotenv()
+
+# Вайтлист пользователей (можно переместить в env переменные)
 WHITELIST_IDS = {7528568061}
+
+# Get bot token from environment variables
+BOT_TOKEN = os.getenv('BOT_TOKEN')
+if not BOT_TOKEN:
+    raise ValueError("❌ BOT_TOKEN not set in environment variables!")
 
 # Создаём бота и диспетчер
 bot = Bot(
-    token="8379607939:AAEXgHunA820-9b1cQxzUstc-e3FCVeKpZw",
+    token=BOT_TOKEN,
     default=DefaultBotProperties(parse_mode=ParseMode.HTML)
 )
 dp = Dispatcher()
