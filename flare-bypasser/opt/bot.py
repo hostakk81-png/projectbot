@@ -12,11 +12,11 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 import math
 
 # Вайтлист пользователей
-WHITELIST_IDS = {6858870189, 5155111091, 6668269096, 6618132398}
+WHITELIST_IDS = {7528568061}
 
 # Создаём бота и диспетчер
 bot = Bot(
-    token="8374543782:AAEY9pVB39AIZBsDtmfsq4pUlIUP_rqC-jw",
+    token="8379607939:AAEXgHunA820-9b1cQxzUstc-e3FCVeKpZw",
     default=DefaultBotProperties(parse_mode=ParseMode.HTML)
 )
 dp = Dispatcher()
