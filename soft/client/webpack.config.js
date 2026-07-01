@@ -13,7 +13,7 @@ module.exports = (env) => {
       path: __dirname + "/build",
       filename: 'js/bundle-[contenthash].js',
       chunkFilename: 'js/chunk-[contenthash].js',
-      publicPath: "/userconnect/",
+      publicPath: "./",
       assetModuleFilename: "assets/[name]-[contenthash][ext]",
       clean: true,
     },
